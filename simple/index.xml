@@ -51,7 +51,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;</description></item><item><title>Section 03 — The Three Method Domains</title><link>https://method.dbj.org/simple/section-03.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://method.dbj.org/simple/section-03.html</guid><description>&lt;p&gt;&lt;a href="../index.html"&gt;Home&lt;/a&gt; | &lt;a href="section-02.html"&gt;← Back&lt;/a&gt; | &lt;a href="index.html"&gt;Top&lt;/a&gt; | &lt;a href="section-04.html"&gt;Next →&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id="the-three-domains-op-model"&gt;The Three Domains OP Model&lt;/h1&gt;
-&lt;!-- ![alt text](../bpt_assets/bpt-meta-loop-simple.png) --&gt;
+&lt;!-- ![The BPT Loop](/assets/diagrams/bpt-loop.png) --&gt;
 &lt;pre tabindex="0"&gt;&lt;code class="language-mermaid" data-lang="mermaid"&gt;flowchart LR
 subgraph BPT[&amp;#34;B-P-T Operational Model&amp;lt;br/&amp;gt;&amp;#34;]
 direction LR
