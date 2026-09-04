@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>DBJ ADM on DBJ.METHOD</title><link>https://method.dbj.org/method/adm/index.html</link><description>Recent content in DBJ ADM on DBJ.METHOD</description><generator>Hugo</generator><language>en-us</language><copyright>dbj.org · IP Advisory</copyright><atom:link href="https://method.dbj.org/method/adm/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://method.dbj.org/method/adm/multi_wheel.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://method.dbj.org/method/adm/multi_wheel.html</guid><description>&lt;h2 id="applicability"&gt;Applicability&lt;/h2&gt;
+&lt;p&gt;This concept applies to any project, driven by underlying DBJ ADM wheel. Examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wheel 1: &lt;strong&gt;LLM Adoption wheel&lt;/strong&gt; — &lt;a href="https://method.dbj.org/kb/bpt_operational_model/llm-adoption/index.html"&gt;authorizes or rejects LLM introduction into a capability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wheel 2: &lt;strong&gt;Cloud Migration wheel&lt;/strong&gt; — authorizes transition from on-premise to cloud hosting&lt;/li&gt;
+&lt;li&gt;Wheel 3: &lt;strong&gt;Data Governance wheel&lt;/strong&gt; — establishes data ownership, classification, and retention rules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each wheel is the same structure. Each wheel&amp;rsquo;s artifacts are specific to its topic.&lt;/p&gt;
+&lt;h2 id="one-or-many"&gt;One wheel or many wheels&lt;/h2&gt;
+&lt;p&gt;The DBJ ADM is designed to scale — from a single wheel covering an entire small organisation, to many concurrent wheels each scoped to a domain, programme, or capability cluster in a large enterprise. The concept is flexible by design; it does not impose full TOGAF rigour on organisations that cannot sustain it.&lt;/p&gt;</description></item><item><title/><link>https://method.dbj.org/method/adm/requirements.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://method.dbj.org/method/adm/requirements.html</guid><description>&lt;h2 id="requirements-management"&gt;Requirements Management&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Requirements Management&lt;/strong&gt; is the central entity of the TOGAF ADM wheel — visible in the diagram as the hub all wheel spokes connect to. It is not a step; it is a central persistent store that runs continuously throughout the wheel&amp;rsquo;s life.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Requirements store is usually maintained on the organizational level, not one-per-project.
+Requirements on the higher level of abstractions: Conceptual or Logical have wider blast radius. Across projects.&lt;/p&gt;</description></item></channel></rss>
