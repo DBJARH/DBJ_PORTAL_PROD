@@ -206,7 +206,7 @@ and it makes knowledge findable twice.&lt;/p&gt;</description></item><item><titl
 &lt;/blockquote&gt;
 &lt;h2 id="one-flow-two-cycles"&gt;One Flow Two Cycles&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;DBJ Method Flow is made of Two Cycles chaining the B, P and T&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>The DBJ Method</title><link>https://method.dbj.org/entrance/section-01.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://method.dbj.org/entrance/section-01.html</guid><description>&lt;p&gt;&lt;a href="index.html"&gt;← Back&lt;/a&gt; | &lt;a href="section-02.html"&gt;Next →&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id="the-dbj-method"&gt;The DBJ Method&lt;/h1&gt;
+&lt;!-- # The DBJ Method --&gt;
 &lt;p&gt;A pragmatic, right-sized adaptation of TOGAF that makes Enterprise Architecture actionable for growing companies — without the overhead of a full TOGAF implementation.&lt;/p&gt;
 &lt;h2 id="what-is-togaf"&gt;What is TOGAF?&lt;/h2&gt;
 &lt;p&gt;TOGAF (The Open Group Architecture Framework) is the world&amp;rsquo;s leading EA framework. It provides a structured method — the Architecture Development Method (ADM) — for designing, planning, implementing, and governing enterprise IT architecture.&lt;/p&gt;
